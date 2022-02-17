@@ -53,7 +53,7 @@ We reserve the right to modify or replace these Terms at any time. If we revise 
 
 Last Updated: 02/16/2022
 
-This Privacy Policy ("Policy") explains how information about your data is collected and used by the Owner of the Forms Discord bot (“our” or “we”) while using the Forms Discord bot (the “Service”). By using our Service, you agree to the terms and conditions of this Policy.
+This Privacy Policy ("Policy") explains how information about your data is collected and used by the Owner of the Forms Discord bot (“our” or “we”) while using the Forms Discord bot (the “Service”). By using our Service, you agree with this Policy.
 
 **Data We Collect:** 
 
