@@ -11,6 +11,7 @@ Your usage of our Service is conditioned on your agreement and compliance with t
 By using our Service, you agree to our Terms. 
 
 **Usage:**
+
 You agree to use our Service for personal, non-commercial use. You also agree to not use the Service for the following, but not limiting, purposes:
 - that are unlawful, libelous, misleading, defamatory, obscene, violent, pornographic, indecent, lewd, suggestive, harassing, threatening, abusive, inflammatory, fraudulent or otherwise objectionable;
 - that may infringe upon or violate the privacy of others, without their consent, including attempting to collect personal or identifying information of others without their consent;
