@@ -59,6 +59,7 @@ This Privacy Policy ("Policy") explains how information about your data is colle
 **Data We Collect:** 
 
 - If you click on your note’s download button (the button that contains the word ‘Download’), we temporarily download your note’s content and title and your Discord username and discriminator (e.g. wind#5143) to compile into an electronic text document. After sending you the document, the temporarily created electronic text document is deleted from our system.
+- We reserve the right to investigate complaints sent to us by users regarding violations of our Terms of Service, including by evaluating the content of individual notes and forms. 
 
 **Revisions to this Policy:**
 
