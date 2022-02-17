@@ -11,7 +11,7 @@ Your usage of our Service is conditioned on your agreement and compliance with t
 By using our Service, you agree to the following terms. 
 
 **Usage:**
-You agree to use our Service for personal, non-commercial use. You also agree to not use the service for the following, but not limiting, purposes:
+You agree to use our Service for personal, non-commercial use. You also agree to not use the Service for the following, but not limiting, purposes:
 - that are unlawful, libelous, misleading, defamatory, obscene, violent, pornographic, indecent, lewd, suggestive, harassing, threatening, abusive, inflammatory, fraudulent or otherwise objectionable;
 - that may infringe upon or violate the privacy of others, without their consent, including attempting to collect personal or identifying information of others without their consent;
 - that may infringe upon any trademark, patent, trade secret, copyright or other intellectual rights of others;
@@ -30,7 +30,7 @@ We reserve the right to terminate service to any user or server for any reason w
 
 **Disclaimer:**
 
-Your use of this service is at your sole risk. This service is provided without warranties of any kind. We do not and cannot guarantee that the Service is always secure, accessible, and errorless. 
+Your use of our Service is at your sole risk. This Service is provided without warranties of any kind. We do not and cannot guarantee that the Service is always secure, accessible, and errorless. 
 
 **Indemnification:**
 
@@ -46,7 +46,7 @@ Our Service may contain links to third-party web sites. You agree that we are no
 
 **Changes:**
 
-We reserve the right to modify or replace these Terms at any time. If we revise these terms, we will provide at least 7-days of notice on our Service's help command, prior to any revisions of these terms to taking effect. After any new Terms take effect, and you continue to use our service, you agree to be bound by the revised terms. 
+We reserve the right to modify or replace these Terms at any time. If we revise these terms, we will provide at least 7-days of notice on our Service's help command, prior to any revisions of these terms to taking effect. After any new Terms take effect, and you continue to use our Service, you agree to be bound by the revised terms. 
 
 
 # **Privacy Policy:**
