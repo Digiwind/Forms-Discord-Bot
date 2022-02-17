@@ -1,6 +1,6 @@
 # Forms-Discord-Bot
 
-**Terms of Service:**
+# **Terms of Service:**
 
 These Terms of Service (“Terms”) are a legal agreement between the owner of the Forms Discord Bot (“we”, “us”, or “our”) and you (“you”, “User”, or “your”). By using the Forms Discord bot, the “Service”, you agree to be bound by these Terms, all applicable laws and regulations, and agree that you are responsible to comply with all applicable local laws and regulations. 
 
