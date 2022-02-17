@@ -6,9 +6,9 @@ Last Updated: 02/16/2022
 
 These Terms of Service (“Terms”) are a legal agreement between the owner of the Forms Discord Bot (“we”, “us”, or “our”) and you (“you”, “User”, or “your”). By using the Forms Discord bot, the “Service”, you agree to be bound by these Terms, all applicable laws and regulations, and agree that you are responsible to comply with all applicable local laws and regulations. 
 
-Your usage of our Service is conditioned on your agreement and compliance with these terms. These terms apply to all users of our Service. If you disagree with these Terms, you are prohibited from using our Service. 
+Your usage of our Service is conditioned on your agreement and compliance with these Terms. These Terms apply to all users of our Service. If you disagree with these Terms, you are prohibited from using our Service. 
 
-By using our Service, you agree to the following terms. 
+By using our Service, you agree to our Terms. 
 
 **Usage:**
 You agree to use our Service for personal, non-commercial use. You also agree to not use the Service for the following, but not limiting, purposes:
@@ -46,7 +46,7 @@ Our Service may contain links to third-party web sites. You agree that we are no
 
 **Changes:**
 
-We reserve the right to modify or replace these Terms at any time. If we revise these terms, we will provide at least 7-days of notice on our Service's help command, prior to any revisions of these terms to taking effect. After any new Terms take effect, and you continue to use our Service, you agree to be bound by the revised terms. 
+We reserve the right to modify or replace these Terms at any time. If we revise these Terms, we will provide at least 7-days of notice on our Service's help command, prior to any revisions of these Terms to taking effect. After any new Terms take effect, and you continue to use our Service, you agree to be bound by the revised Terms. 
 
 
 # **Privacy Policy:**
