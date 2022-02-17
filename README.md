@@ -45,3 +45,16 @@ Our Service may contain links to third-party web sites. You agree that we are no
 **Changes:**
 
 We reserve the right to modify or replace these Terms at any time. If we revise these terms, we will provide at least 7-days of notice on our Service's help command, prior to any revisions of these terms to taking effect. After any new Terms take effect, and you continue to use our service, you agree to be bound by the revised terms. 
+
+
+# **Privacy Policy:**
+
+This Privacy Policy ("Policy") explains how information about your data is collected and used by the Owner of the Forms Discord bot (“our” or “we”) while using the Forms Discord bot (the “Service”). By using our Service, you agree to the terms and conditions of this Policy.
+
+**Data We Collect:** 
+
+If you click on your note’s download button (the button that contains the word ‘Download’), we temporarily download your note’s content and title and your Discord username and discriminator (e.g. wind#5143) to compile into an electronic text document. After sending you the document, the temporarily created electronic text document is deleted from our system.
+
+**Revisions to this Policy:**
+
+If we revise this Policy, we will provide at least 7-days notice in our Service’s help command to the revised prior Policy taking effect. 
