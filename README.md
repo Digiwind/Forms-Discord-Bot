@@ -2,6 +2,8 @@
 
 # **Terms of Service:**
 
+Last Updated: 02/16/2022
+
 These Terms of Service (“Terms”) are a legal agreement between the owner of the Forms Discord Bot (“we”, “us”, or “our”) and you (“you”, “User”, or “your”). By using the Forms Discord bot, the “Service”, you agree to be bound by these Terms, all applicable laws and regulations, and agree that you are responsible to comply with all applicable local laws and regulations. 
 
 Your usage of our Service is conditioned on your agreement and compliance with these terms. These terms apply to all users of our Service. If you disagree with these Terms, you are prohibited from using our Service. 
@@ -49,6 +51,8 @@ We reserve the right to modify or replace these Terms at any time. If we revise 
 
 # **Privacy Policy:**
 
+Last Updated: 02/16/2022
+
 This Privacy Policy ("Policy") explains how information about your data is collected and used by the Owner of the Forms Discord bot (“our” or “we”) while using the Forms Discord bot (the “Service”). By using our Service, you agree to the terms and conditions of this Policy.
 
 **Data We Collect:** 
@@ -57,4 +61,4 @@ This Privacy Policy ("Policy") explains how information about your data is colle
 
 **Revisions to this Policy:**
 
-If we revise this Policy, we will provide at least 7-days notice in our Service’s help command to the revised prior Policy taking effect. 
+If we revise this Policy, we will provide at least 7-days notice in our Service’s help command prior to the revised prior Policy taking effect. 
