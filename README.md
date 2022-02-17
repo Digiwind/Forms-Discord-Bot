@@ -1,4 +1,4 @@
-# Forms-Discord-Bot
+# Terms of Service and Privacy Policy for the Forms Discord Bot
 
 # **Terms of Service:**
 
