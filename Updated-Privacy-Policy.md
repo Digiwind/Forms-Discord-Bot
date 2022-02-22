@@ -9,7 +9,7 @@ This Privacy Policy ("Policy") explains how information about your data is colle
 **Data We Collect:** 
 
 - If you click on your note’s download button (the button that contains the word ‘Download’), we temporarily download your note’s content and title and your Discord username and discriminator (e.g. wind#5143) to compile into an electronic text document. After sending you the document, the temporarily created electronic text document is deleted from our system.
-- We may store your user ID and associate it with a message ID when you interact with a button or select menu generated from the slash commands: /forms, /vote, and /poll.
+- We may store your user ID and associate it with a message ID when you interact with a button or select menu or modals resulting from the slash commands: /forms, /vote, and /poll.
   - This data is automatically deleted after 28 days.
 - We reserve the right to investigate complaints sent to us by users regarding violations of our Terms of Service, including by evaluating the content of individual notes and forms. 
 
