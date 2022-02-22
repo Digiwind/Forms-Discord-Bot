@@ -1,6 +1,7 @@
 # **Privacy Policy:**
 
 Last Updated: 02/22/2022
+
 Effective: 03/01/2022
 
 This Privacy Policy ("Policy") explains how information about your data is collected and used by the Owner of the Forms Discord bot (“our” or “we”) while using the Forms Discord bot (the “Service”). By using our Service, you agree with this Policy.
