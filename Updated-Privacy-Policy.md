@@ -14,6 +14,7 @@ This Privacy Policy ("Policy") explains how information about your data is colle
 
 - If the creator of a form chooses to save form results in a .txt file by selecting True for the `save_to_file` input, we will store form submissions and the associated user ID. **This .txt file will be able accessible to any user with manage server permissions in the Discord Server where the form is generated.**
   - This data is automatically deleted after 28 days and is deletable upon request (join our Support Server).  
+- We may collect role IDs, if you choose to use features that use roles, and user IDs and associate them with message IDs.
 - We reserve the right to investigate complaints sent to us by users regarding violations of our Terms of Service, including by evaluating the content of individual notes and forms. 
 
 **Revisions to this Policy:**
